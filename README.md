@@ -91,7 +91,7 @@ The analysis helps answer questions such as:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/Customer-Churn-Analysis.git
+git clone https://github.com/sahilingavale-24/Customer-Churn-Analysis.git
 ```
 
 ### Install Dependencies
@@ -138,16 +138,6 @@ openpyxl
 
 ---
 
-## 🚀 Future Improvements
-
-- Build an interactive Power BI dashboard
-- Develop a customer churn prediction model
-- Create a Streamlit web application
-- Automate the ETL pipeline
-- Deploy the project to the cloud
-
----
-
 ## 👨‍💻 Author
 
 **Sahil Laxman Ingavale**
@@ -155,9 +145,3 @@ openpyxl
 B.Sc. Computer Science
 
 Aspiring Data Analyst | Python | SQL | Power BI
-
----
-
-## ⭐ If you found this project useful
-
-Give this repository a ⭐ on GitHub.
