@@ -111,7 +111,7 @@ jupyter notebook
 Open:
 
 ```
-notebooks/churn_analysis.ipynb
+https://github.com/sahilingavale-24/Customer-Churn-Analysis/blob/main/churn_analysis.ipynb
 ```
 
 ---
