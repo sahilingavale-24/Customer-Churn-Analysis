@@ -36,11 +36,11 @@ Customer churn is one of the biggest challenges faced by subscription-based busi
 The project includes:
 
 - Raw customer data (Excel)-
--  **Dataset Link:** [Dataset](https://github.com/sahilingavale-24/Customer-Churn-Analysis/blob/main/customer_churn_data_raw.xlsx)
+                    **Dataset Link:** [Dataset](https://github.com/sahilingavale-24/Customer-Churn-Analysis/blob/main/customer_churn_data_raw.xlsx)
 - SQLite database-
--   **Dataset Link:** [Dataset](https://github.com/sahilingavale-24/Customer-Churn-Analysis/blob/main/customer_churn.db)
+                    **Dataset Link:** [Dataset](https://github.com/sahilingavale-24/Customer-Churn-Analysis/blob/main/customer_churn.db)
 - Cleaned CSV dataset-
--   **Dataset Link:** [Dataset](https://github.com/sahilingavale-24/Customer-Churn-Analysis/blob/main/exported_churn_data.csv)
+                    **Dataset Link:** [Dataset](https://github.com/sahilingavale-24/Customer-Churn-Analysis/blob/main/exported_churn_data.csv)
 ---
 
 ## 🔄 Project Workflow
