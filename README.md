@@ -35,9 +35,9 @@ Customer churn is one of the biggest challenges faced by subscription-based busi
 
 The project includes:
 
-- Raw customer data (Excel)
-- SQLite database
-- Cleaned CSV dataset
+- Raw customer data (Excel)- **Dataset Link:**(https://github.com/sahilingavale-24/Customer-Churn-Analysis/blob/main/customer_churn_data_raw.xlsx)
+- SQLite database- **Dataset Link:** [Movies Dataset](https://github.com/sahilingavale-24/Netflix-Movies-and-TV-Shows-Data-Analysis-using-SQL/blob/main/netflix_titles.csv)
+- Cleaned CSV dataset- **Dataset Link:** [Movies Dataset](https://github.com/sahilingavale-24/Netflix-Movies-and-TV-Shows-Data-Analysis-using-SQL/blob/main/netflix_titles.csv)
 
 ---
 
@@ -91,7 +91,7 @@ The analysis helps answer questions such as:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/sahilingavale-24/Customer-Churn-Analysis.git
+https://github.com/sahilingavale-24/Customer-Churn-Analysis
 ```
 
 ### Install Dependencies
